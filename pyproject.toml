@@ -1,0 +1,17 @@
+[project]
+name = "synthetic-amazon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faker>=37.4.0",
+    "jinja2>=3.1.6",
+    "jupyter>=1.1.1",
+    "notebook>=7.4.3",
+    "numpy>=2.3.0",
+    "ollama>=0.5.1",
+    "pandas>=2.3.0",
+    "pdfkit>=1.0.0",
+    "wkhtmltopdf>=0.2",
+]
