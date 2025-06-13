@@ -1,6 +1,7 @@
 # Synthetic Amazon Order Data Generator
 
 This project is a Jupyter Notebook-based tool that generates synthetic Amazon-style order and invoice data using the `Faker` library, optionally enhanced with `Ollama` for product name generation. The data is processed into CSV files, used to populate an HTML order confirmation template, and converted to a PDF. The project is organized with separate folders for data and output files.
+![download (2)](https://github.com/user-attachments/assets/ba38e73f-a1fa-49ab-8e2e-c469c4da4330)
 
 ## Project Overview
 
