@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "faker>=37.4.0",
+    "fastapi>=0.115.13",
     "jinja2>=3.1.6",
     "jupyter>=1.1.1",
     "notebook>=7.4.3",
@@ -13,5 +14,6 @@ dependencies = [
     "ollama>=0.5.1",
     "pandas>=2.3.0",
     "pdfkit>=1.0.0",
+    "uvicorn>=0.34.3",
     "wkhtmltopdf>=0.2",
 ]
